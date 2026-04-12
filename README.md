@@ -10,6 +10,7 @@
 
 **Tartuk**: Bárbaro nacido en un mundo que no lo entiende. Ha vagado por tierras desconocidas buscando el lugar al que realmente pertenece.
 
+# Capitulo 1 Perdidos en las tinieblas
 
 ## **Sesión 1 (13 marzo 2026)**
 
