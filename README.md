@@ -1,16 +1,28 @@
 ## **Personajes**
 
-**Freya**: Elfa druida que se siente más cómoda en contacto con la naturaleza, lo que la hace parecer tosca y poco civilizada.
+### **Freya**
+* **Clase:** Druida | **Raza:** Elfa
+* **Descripción:** Una mística elfa cuya verdadera patria es la espesura del bosque. Se siente infinitamente más cómoda bajo el susurro del dosel arbóreo que en el bullicio de las ciudades, lo que a menudo le otorga un trato tosco, salvaje y ajeno a las sutilezas civilizadas. Viste ropajes rústicos confeccionados por ella misma a partir de elementos de la naturaleza, y su llamativo cabello de tonalidades verdes complementa su indómita apariencia. Siempre se le ve empuñando un bastón imbuido en magia ancestral, el cual utiliza para canalizar el poder de la tierra.
 
-**Torken**: Guerrero humano que aún no encuentra su destino; vaga con sus amigos en busca de aquello que logre dar un rumbo a su vida.
+### **Torken**
+* **Clase:** Guerrero | **Raza:** Tiefling
+* **Descripción:** Un alma atrapada en un laberinto espiritual, buscando un destino que aún le resulta esquivo. Vaga por el mundo junto a sus compañeros, anhelando encontrar una causa o un lugar que finalmente le otorgue un rumbo y significado a su existencia. De aspecto imponente y marcado por su herencia infernal, viste armaduras de cuero curtido que le permiten moverse con agilidad en el campo de batalla, mientras blande con letal maestría un pesado mandoble a dos manos, su herramienta principal para abrirse paso ante la incertidumbre.
 
-**Vashan**: Mago humano de edad desconocida. Siempre tiene un conjuro adecuado para el momento exacto (o eso cree él). Su poder y conocimiento son un misterio.
+### **Vashan**
+* **Clase:** Mago | **Raza:** Humano
+* **Descripción:** Un erudito de origen y edad indescifrables, cuyo rostro surcado por el tiempo evoca siglos de estudio arcano. Tiene la firme convicción de poseer el conjuro exacto para cada dilema (o al menos eso le gusta aparentar), aunque el verdadero alcance de su poder y sus conocimientos sigue siendo un enigma absoluto para el grupo. Con un aspecto clásico y arquetípico, luce una larguísima barba blanca y un sombrero puntiagudo que corona su túnica, reforzando su aire de misterio viviente.
 
-**Kirdal**: Paladín humano que busca no defraudar a su dios. Intenta expiar los pecados de su pasado, lo que lo vuelve, sin darse cuenta, en el protector del grupo.
+### **Kirdal**
+* **Clase:** Paladín | **Raza:** Humano
+* **Descripción:** Un devoto guerrero consumido por el ferviente deseo de no defraudar a su deidad. Carga con el peso de un pasado tormentoso y busca la redención a través de la penitencia, un viaje espiritual que lo ha convertido, casi sin darse cuenta, en el escudo inquebrantable y protector de sus aliados. Protegido por una reluciente cota de malla y portando una espada de manufactura elegante, Kirdal personifica la rectitud, el sacrificio y la luz en medio de las tinieblas.
 
-**Tartuk**: Bárbaro nacido en un mundo que no lo entiende. Ha vagado por tierras desconocidas buscando el lugar al que realmente pertenece.
+### **Tartuk**
+* **Clase:** Bárbaro | **Raza:** Desconocida
+* **Descripción:** Un guerrero colosal, nacido en los confines de un mundo cuyas leyes, murallas y estructuras no logran comprender su naturaleza indómita. Ha recorrido tierras inhóspitas y olvidadas, empujado por un vacío interno, buscando incansablemente aquel rincón del mundo al que realmente pueda llamar hogar. Su ferocidad en el combate es solo el reflejo de un espíritu salvaje que se niega a ser domesticado por la falsa comodidad de la civilización.
 
-**Frank**: Pícaro humano perteneciente a una antigua familia de asesinos caída en desgracia. Ahora se desempeña como doble agente y busca su propio beneficio.
+### **Frank**
+* **Clase:** Pícaro | **Raza:** Humano
+* **Descripción:** El astuto heredero de un antiguo y letal linaje de asesinos que cayó trágicamente en la desgracia e infamia. Obligado a sobrevivir en las sombras, se desenvuelve hábilmente en el peligroso juego del espionaje como doble agente, sirviendo a múltiples postores mientras persigue, ante todo, su propio beneficio y supervivencia. Se funde con la penumbra vistiendo ropajes oscuros y discretos, y su letalidad radica en la velocidad con la que desenfunda sus dagas y un arsenal de armas ligeras.
 
 # Capítulo 1: Perdidos en las tinieblas
 
@@ -84,3 +96,16 @@ La tregua duró poco. **Kirdal** entró corriendo despavorido por el umbral, seg
 
 Aprovechando el descuido, la oscuridad de la noche se coló en el salón. Tres imponentes criaturas hechas de pura sombra irrumpieron en el lugar: dos de ellas de dos metros de altura y una tercera, una descomunal aberración de dos metros y medio que se vio obligada a avanzar encorvada para no golpear el techo de la estancia. Con las tres siluetas de pesadilla rodeando la entrada y los aventureros acorralados en el salón principal.
 
+## **Sesion 6 (29 de mayo de 2026)**
+
+Tres imponentes criaturas hechas de pura sombra irrumpieron en el salón principal de la casona: dos de ellas de dos metros de altura y una tercera, una descomunal aberración de dos metros y medio que avanzaba encorvada para no golpear el techo. En el centro de la habitación, ajena al peligro inmediato, Ireena continuaba rezando de rodillas junto al cuerpo de su difunto padre para proteger su alma. Al verla, las dos criaturas de dos metros comenzaron a flanquear la estancia, moviéndose por los bordes desde lados opuestos para acercarse a ella, mientras los jugadores se desplegaban rápidamente para armar un perímetro y protegerla. En ese instante de máxima tensión, Ismark bajó apresuradamente por las escaleras.
+
+El combate comenzó de inmediato cuando Torken se lanzó valientemente al ataque con su mandoble de dos manos contra la criatura principal de dos metros y medio, que parecía un blanco fácil. Sin embargo, al tratarse de un ser de pura sombra, el filo atravesó el vacío por completo y golpeó con fuerza el suelo de madera, dañando el piso pero dejando a la criatura intacta. 
+
+Mientras tanto, el resto del grupo se enfocó en los otros dos engendros que amenazaban a Ireena. Vashan y Freya combinaron sus ataques mágicos a distancia, logrando concentrar suficiente poder para destruir y desintegrar por completo a una de las sombras periféricas. En paralelo, Freya se cruzó con Ismark, quien desesperado le gritó que defendieran a su hermana Ireena a toda costa. Aprovechando la distracción general, el pícaro Frank se movió entre la penumbra para flanquear a la criatura principal y ayudar a Torken, pero al ver que sus ataques directos no surgían mucho efecto, cambió de estrategia y arremetió por la espalda contra la otra sombra de dos metros, logrando asestarle un buen golpe y dañarla.
+
+La situación se volvió crítica cuando el monstruo gigante de dos metros y medio contraatacó. Alzó su extremidad superior y perforó el cuerpo de Torken; aunque el ataque no causó una herida física abierta debido a la naturaleza espectral del ser, la sombra atravesó su pecho, le tomó el corazón por dentro y lo levantó en el aire. Fue en ese momento exacto cuando Frank apareció por detrás y le asestó un golpe certero a la enorme criatura. El impacto obligó al monstruo a soltar a Torken y darse la vuelta para mirar fijamente al pícaro, lanzando al guerrero con violencia contra la pared. Torken quedó tendido en el suelo, gravemente herido, debilitado y con las entrañas resentidas por el gélido contacto de la criatura.
+
+Ignorando por completo al pícaro tras el desquite, la sombra principal se dirigió en línea recta hacia Ireena. Al alcanzarla, la envolvió en un abrazo oscuro, intentando absorberla de alguna forma sobrenatural. Desesperados, los jugadores restantes continuaron arremetiendo y golpeando con todo lo que tenían a la gigantesca criatura para obligarla a soltar a la muchacha. A medida que recibía los impactos, el monstruo comenzaba a desprender una densa esencia de humo y niebla, y su silueta iba adoptando una apariencia cada vez más humanoide. 
+
+Finalmente, tras recibir un último castigo por parte de los aventureros, la criatura reaccionó liberando de un solo golpe toda su esencia de humo y negrura. Una oscuridad absoluta estalló y cubrió por completo cada rincón de la estancia, dejando a todos los jugadores completamente cegados en medio de la noche.
