@@ -16,7 +16,7 @@ Estas son las crónicas de nuestras sesiones entre amigos, narradas desde la per
 | Torken | Guerrero | Tiefling |
 | Vashan | Mago | Humano |
 | Kirdal | Paladín | Humano |
-| Tartuk | Bárbaro | Desconocida |
+| ~~Tartuk~~ | ~~Bárbaro~~ | ~~Humano~~ |
 | Frank | Pícaro | Humano |
 
 ---
