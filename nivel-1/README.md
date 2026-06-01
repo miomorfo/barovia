@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nivel 1
+title: Sesiones — Nivel 1
 nav_order: 2
 has_children: true
 ---

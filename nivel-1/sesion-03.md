@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sesión 3 — La posada de la Sangre"
-parent: Nivel 1
+parent: "Sesiones — Nivel 1"
 nav_order: 3
 ---
 

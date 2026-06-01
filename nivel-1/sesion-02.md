@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sesión 2 — Fuego en la oscuridad"
-parent: Nivel 1
+parent: "Sesiones — Nivel 1"
 nav_order: 2
 ---
 

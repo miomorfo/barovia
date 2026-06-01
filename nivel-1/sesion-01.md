@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sesión 1 — El primer encuentro"
-parent: Nivel 1
+parent: "Sesiones — Nivel 1"
 nav_order: 1
 ---
 

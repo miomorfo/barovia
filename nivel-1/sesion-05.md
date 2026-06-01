@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sesión 5 — La luna de sangre"
-parent: Nivel 1
+parent: "Sesiones — Nivel 1"
 nav_order: 5
 ---
 

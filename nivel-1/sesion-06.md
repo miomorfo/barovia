@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sesión 6 — La oscuridad entra"
-parent: Nivel 1
+parent: "Sesiones — Nivel 1"
 nav_order: 6
 ---
 

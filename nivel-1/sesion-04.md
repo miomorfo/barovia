@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sesión 4 — La casona en la colina"
-parent: Nivel 1
+parent: "Sesiones — Nivel 1"
 nav_order: 4
 ---
 
