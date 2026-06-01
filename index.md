@@ -1,3 +1,10 @@
+---
+layout: home
+title: Inicio
+nav_order: 1
+permalink: /
+---
+
 # La Maldición de Strahd
 
 ![Nivel](https://img.shields.io/badge/Nivel_actual-1-red)
