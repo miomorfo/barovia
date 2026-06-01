@@ -1,0 +1,9 @@
+title: La Maldición de Strahd
+description: Crónicas de una campaña de D&D 5e entre amigos
+theme: jekyll-theme-midnight
+baseurl: "/barovia"
+url: ""
+
+exclude:
+  - strahd_temp.txt
+  - "La maldición de Strahd.pdf"
