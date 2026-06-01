@@ -1,3 +1,10 @@
+---
+layout: default
+title: Nivel 1
+nav_order: 2
+has_children: true
+---
+
 [🏠 Inicio](../README.md) / **📖 Nivel 1**
 
 # Nivel 1 — Perdidos en las tinieblas

@@ -1,3 +1,10 @@
+---
+layout: default
+title: La anciana de la carreta
+parent: NPCs
+nav_order: 5
+---
+
 # La anciana de la carreta
 
 **Estado:** Desconocido  

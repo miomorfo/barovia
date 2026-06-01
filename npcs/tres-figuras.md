@@ -1,3 +1,10 @@
+---
+layout: default
+title: Las tres figuras
+parent: NPCs
+nav_order: 4
+---
+
 # Las tres figuras
 
 **Estado:** Desconocido  

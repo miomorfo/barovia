@@ -1,3 +1,10 @@
+---
+layout: default
+title: Objetos
+nav_order: 5
+has_children: true
+---
+
 [🏠 Inicio](../README.md) / **🎒 Objetos**
 
 # Objetos y elementos relevantes

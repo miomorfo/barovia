@@ -1,3 +1,10 @@
+---
+layout: default
+title: El tabernero
+parent: NPCs
+nav_order: 3
+---
+
 # El tabernero
 
 **Estado:** Desconocido  

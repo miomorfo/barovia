@@ -1,3 +1,10 @@
+---
+layout: default
+title: Ismark
+parent: NPCs
+nav_order: 1
+---
+
 # Ismark
 
 **Estado:** Activo  

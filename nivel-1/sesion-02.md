@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Sesión 2 — Fuego en la oscuridad"
+parent: Nivel 1
+nav_order: 2
+---
+
 # Sesión 2 — Fuego en la oscuridad
 **Fecha:** 10 de abril de 2026
 

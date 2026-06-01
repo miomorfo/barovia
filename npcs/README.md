@@ -1,3 +1,10 @@
+---
+layout: default
+title: NPCs
+nav_order: 3
+has_children: true
+---
+
 [🏠 Inicio](../README.md) / **📜 NPCs**
 
 # Directorio de NPCs

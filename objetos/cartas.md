@@ -1,4 +1,9 @@
-[🏠 Inicio](../README.md) / [🎒 Objetos](./README.md) / **✉️ Cartas**
+---
+layout: default
+title: Cartas de Kolyan Indirovich
+parent: Objetos
+nav_order: 1
+---
 
 # Cartas encontradas
 

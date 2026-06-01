@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Sesión 6 — La oscuridad entra"
+parent: Nivel 1
+nav_order: 6
+---
+
 # Sesión 6 — La oscuridad entra
 **Fecha:** 29 de mayo de 2026
 

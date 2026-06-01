@@ -1,3 +1,10 @@
+---
+layout: default
+title: El castillo en la colina
+parent: Lugares
+nav_order: 4
+---
+
 # El castillo en la colina
 
 **Estado:** Avistado  

@@ -1,3 +1,10 @@
+---
+layout: default
+title: El bosque de la niebla
+parent: Lugares
+nav_order: 1
+---
+
 # El bosque de la niebla
 
 **Estado:** Visitado  

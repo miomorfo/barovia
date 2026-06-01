@@ -1,3 +1,10 @@
+---
+layout: default
+title: La posada de la Sangre
+parent: Lugares
+nav_order: 2
+---
+
 # La posada de la Sangre
 
 **Estado:** Visitado  

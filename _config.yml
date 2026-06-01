@@ -1,8 +1,22 @@
 title: La Maldición de Strahd
 description: Crónicas de una campaña de D&D 5e entre amigos
-theme: jekyll-theme-midnight
 baseurl: "/barovia"
 url: ""
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+
+search_enabled: true
+search.heading_level: 3
+
+nav_enabled: true
+
+aux_links:
+  "Ver en GitHub":
+    - "https://github.com/miomorfo/barovia"
+
+footer_content: "Campaña de D&D 5e basada en Curse of Strahd. Contenido bajo licencia CC BY-NC-SA 4.0."
 
 exclude:
   - strahd_temp.txt

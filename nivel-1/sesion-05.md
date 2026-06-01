@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Sesión 5 — La luna de sangre"
+parent: Nivel 1
+nav_order: 5
+---
+
 # Sesión 5 — La luna de sangre
 **Fecha:** 22 de mayo de 2026
 

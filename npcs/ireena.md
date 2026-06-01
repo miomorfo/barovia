@@ -1,3 +1,10 @@
+---
+layout: default
+title: Ireena
+parent: NPCs
+nav_order: 2
+---
+
 # Ireena
 
 **Estado:** Activa — en peligro  

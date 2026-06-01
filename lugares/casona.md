@@ -1,3 +1,10 @@
+---
+layout: default
+title: La casona en la colina
+parent: Lugares
+nav_order: 3
+---
+
 # La casona en la colina
 
 **Estado:** Visitado — base de operaciones actual  

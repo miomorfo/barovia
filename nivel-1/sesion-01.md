@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Sesión 1 — El primer encuentro"
+parent: Nivel 1
+nav_order: 1
+---
+
 # Sesión 1 — El primer encuentro
 **Fecha:** 13 de marzo de 2026
 

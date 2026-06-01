@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Sesión 3 — La posada de la Sangre"
+parent: Nivel 1
+nav_order: 3
+---
+
 # Sesión 3 — La posada de la Sangre
 **Fecha:** 24 de abril de 2026
 
