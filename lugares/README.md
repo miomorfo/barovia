@@ -1,3 +1,5 @@
+[🏠 Inicio](../README.md) / **🗺️ Lugares**
+
 # Directorio de Lugares
 
 Localizaciones que el grupo ha visitado o avistado en su travesía por Barovia.

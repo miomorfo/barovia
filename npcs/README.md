@@ -1,3 +1,5 @@
+[🏠 Inicio](../README.md) / **📜 NPCs**
+
 # Directorio de NPCs
 
 Personajes no jugadores que el grupo ha encontrado en su travesía por Barovia.

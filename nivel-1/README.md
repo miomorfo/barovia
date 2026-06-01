@@ -1,3 +1,5 @@
+[🏠 Inicio](../README.md) / **📖 Nivel 1**
+
 # Nivel 1 — Perdidos en las tinieblas
 
 Los aventureros despiertan en un mundo que no reconocen. Las nieblas de Barovia los han atrapado sin previo aviso y sin una salida clara. Sin monedas locales, sin mapas y sin saber en qué se han metido, su única opción es avanzar y sobrevivir una noche a la vez.
