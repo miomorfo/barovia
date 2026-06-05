@@ -36,7 +36,8 @@ Estas son las crónicas de nuestras sesiones entre amigos, narradas desde la per
 
 📜 [Directorio de NPCs](./npcs/README.md)  
 🗺️ [Directorio de Lugares](./lugares/README.md)  
-🎒 [Objetos y elementos relevantes](./objetos/README.md)
+🎒 [Objetos y elementos relevantes](./objetos/README.md)  
+⚔️ [Personajes](./personajes/README.md)
 
 ---
 
