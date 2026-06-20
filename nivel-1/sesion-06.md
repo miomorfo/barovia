@@ -24,4 +24,4 @@ Finalmente, tras recibir un último castigo por parte de los aventureros, la cri
 
 ---
 
-[← Sesión 5](./sesion-05.md) | [Volver al Nivel 1](./README.md)
+[← Sesión 5](./sesion-05.md) | [Volver al Nivel 1](./README.md) | [Sesión 7 →](./sesion-07.md)

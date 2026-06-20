@@ -7,8 +7,8 @@ permalink: /
 
 # La Maldición de Strahd
 
-![Nivel](https://img.shields.io/badge/Nivel_actual-1-red)
-![Sesiones](https://img.shields.io/badge/Sesiones-6-blue)
+![Nivel](https://img.shields.io/badge/Nivel_actual-2-red)
+![Sesiones](https://img.shields.io/badge/Sesiones-7-blue)
 ![Jugadores](https://img.shields.io/badge/Jugadores-5-green)
 ![Sistema](https://img.shields.io/badge/D%26D-5e-orange)
 ![Licencia](https://img.shields.io/badge/Licencia-CC_BY--NC--SA_4.0-lightgrey)
@@ -45,4 +45,5 @@ Estas son las crónicas de nuestras sesiones entre amigos, narradas desde la per
 
 | Milestone | Estado |
 |-----------|--------|
-| [Nivel 1 — Perdidos en las tinieblas](./nivel-1/README.md) | 🟢 En curso |
+| [Nivel 1 — Perdidos en las tinieblas](./nivel-1/README.md) | ✅ Completado |
+| [Nivel 2 — El peso de la invitación](./nivel-2/README.md) | 🟢 En curso |

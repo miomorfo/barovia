@@ -23,3 +23,4 @@ Los aventureros despiertan en un mundo que no reconocen. Las nieblas de Barovia 
 | [04](./sesion-04.md) | 15 may 2026 | La casona en la colina | El grupo irrumpe en la casona del noble. Encuentran a Ireena velando a su padre y conocen a Ismark, quien les pide protección para la noche. |
 | [05](./sesion-05.md) | 22 may 2026 | La luna de sangre | El grupo acepta el trato y se divide para defender la casona. Tartuk es arrastrado por las sombras y Frank aparece en escena. |
 | [06](./sesion-06.md) | 29 may 2026 | La oscuridad entra | Tres criaturas de sombra irrumpen en el salón. El combate es caótico, Torken queda gravemente herido y la criatura principal envuelve a Ireena en oscuridad absoluta. |
+| [07](./sesion-07.md) | 20 jun 2026 | La invitación | La oscuridad se disipa en una bandada de murciélagos. Ismark salva a Ireena, el grupo descubre marcas de colmillos en su cuello y una carta de Strahd invitándolos a cenar. |

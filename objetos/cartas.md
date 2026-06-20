@@ -47,4 +47,19 @@ Estas cartas fueron halladas entre las ropas de viaje que el grupo descubrió en
 
 ---
 
+## Carta 3 — Invitación de Strahd
+
+Encontrada en el suelo del salón de la casona tras la batalla con las criaturas de sombra, durante la [Sesión 7](../nivel-1/sesion-07.md). Sellada con cera carmesí.
+
+> Queridos amigos,
+>
+> Sabed que he sido yo quien os ha traído a estas tierras, mi hogar, y sabed que solo yo puedo liberaros de este lugar. Os invito a compartir una cena en mi castillo, tal y que así podamos reunirnos en condiciones civilizadas.
+>
+> Vuestro viaje por estos lares será seguro conmigo. Espero vuestra llegada.
+>
+> *Vuestro anfitrión,*
+> *Strahd von Zarovich*
+
+---
+
 [← Volver a Objetos](./README.md)
