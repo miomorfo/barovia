@@ -20,14 +20,14 @@ Vashan parece haber conocido a cada miembro del grupo en algún punto de sus vid
 
 ---
 
-## Freya
+## Freia
 **Clase:** Druida | **Raza:** Elfa | **Origen:** El Bosque Alto, Faerûn
 
 Una mística elfa cuya verdadera patria es la espesura del bosque. Creció entre los círculos druídicos del Bosque Alto, la arboleda más antigua y salvaje de Faerûn, donde los árboles recuerdan cosas que las civilizaciones ya olvidaron. Se siente infinitamente más cómoda bajo el susurro del dosel arbóreo que en el bullicio de las ciudades, lo que a menudo le otorga un trato tosco, salvaje y ajeno a las sutilezas civilizadas. Viste ropajes rústicos confeccionados por ella misma a partir de elementos de la naturaleza, y su llamativo cabello de tonalidades verdes complementa su indómita apariencia. Siempre se le ve empuñando un bastón imbuido en magia ancestral.
 
-Conoció a Tartuk en los lindes del Bosque Alto, cuando el bárbaro confundió una planta desconocida con una amenaza y se lanzó a "salvarla". Ella, lejos de enfadarse, encontró en aquella torpeza algo genuino. La planta en cuestión era una especie que Freya jamás había visto en el Bosque Alto: de tallo oscuro y hojas que parecían absorber la luz en lugar de reflejarla. Nunca logró clasificarla.
+Conoció a Tartuk en los lindes del Bosque Alto, cuando el bárbaro confundió una planta desconocida con una amenaza y se lanzó a "salvarla". Ella, lejos de enfadarse, encontró en aquella torpeza algo genuino. La planta en cuestión era una especie que Freia jamás había visto en el Bosque Alto: de tallo oscuro y hojas que parecían absorber la luz en lugar de reflejarla. Nunca logró clasificarla.
 
-Su encuentro con Vashan ocurrió después. Lo encontró en los bosques al sur de Candlekeep, desorientado y murmurando cosas incoherentes, con las manos manchadas de tinta y un libro abierto contra el pecho que parecía emanar un frío antinatural. Lo estabilizó con hierbas y magia de la tierra durante tres días. Cuando el mago recuperó la lucidez, cerró el libro sin decir una palabra y lo guardó en lo más profundo de su morral. Nunca le explicó qué estaba leyendo, pero Freya recuerda que durante esos tres días, los árboles alrededor no cantaban.
+Su encuentro con Vashan ocurrió después. Lo encontró en los bosques al sur de Candlekeep, desorientado y murmurando cosas incoherentes, con las manos manchadas de tinta y un libro abierto contra el pecho que parecía emanar un frío antinatural. Lo estabilizó con hierbas y magia de la tierra durante tres días. Cuando el mago recuperó la lucidez, cerró el libro sin decir una palabra y lo guardó en lo más profundo de su morral. Nunca le explicó qué estaba leyendo, pero Freia recuerda que durante esos tres días, los árboles alrededor no cantaban.
 
 ---
 

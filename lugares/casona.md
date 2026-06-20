@@ -16,7 +16,7 @@ Una imponente casona erigida sobre una colina, resguardada por una reja de metal
 
 El interior no es menos sombrío. El salón principal es amplio y devastado, testigo mudo de algún enfrentamiento pasado. En su centro, una mesa sostenía el cuerpo inerte del padre de Ismark e Ireena durante los días de vela. Una escalinata doble domina el fondo de la estancia, y bajo su ala se esconde el despacho de Ismark, un cuarto atestado de libros, manuscritos y mapas fragmentados de terrenos boscosos y montañosos que no logran encajar entre sí.
 
-La casona emana una energía protectora que **Freya** percibió al entrar, vinculada de algún modo a las oraciones de **Ireena**. Esa misma energía sanó a **Kirdal** y rechazó violentamente a **Torken**. Sin embargo, no fue suficiente para mantener a raya a las criaturas de sombra que irrumpieron en el salón durante la última noche de vela.
+La casona emana una energía protectora que **Freia** percibió al entrar, vinculada de algún modo a las oraciones de **Ireena**. Esa misma energía sanó a **Kirdal** y rechazó violentamente a **Torken**. Sin embargo, no fue suficiente para mantener a raya a las criaturas de sombra que irrumpieron en el salón durante la última noche de vela.
 
 ---
 

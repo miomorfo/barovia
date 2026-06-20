@@ -6,7 +6,7 @@ nav_order: 7
 ---
 
 # Sesión 7 — La invitación
-**Fecha:** 20 de junio de 2026
+**Fecha:** 19 de junio de 2026
 
 ---
 
@@ -16,7 +16,7 @@ La oscuridad era absoluta. Los aventureros habían quedado completamente cegados
 
 Desde su privilegiada posición, la druida vio lo que los demás no podían: la sombra más alta, la criatura descomunal de dos metros y medio, se cernía sobre el cuerpo de **Ireena** como un manto de muerte, envolviéndola en un abrazo que parecía succionar algo más que su cuerpo.
 
-El caos reinaba en la estancia. **Vashan** avanzaba a ciegas repartiendo golpes erráticos con su bastón en todas direcciones, sin conectar con nada más que el aire y las paredes. **Frank** intentaba clavar su daga en lo que su memoria le decía que tenía enfrente, pero la desorientación era total: sus golpes se perdían en el vacío. **Torken**, el más desorientado de todos, se tambaleaba sin atinar a nada; la oscuridad sobrenatural había anulado por completo su sentido de la orientación.
+El caos reinaba en la estancia. **Vashan** avanzaba a ciegas repartiendo golpes erráticos con su bastón en todas direcciones, sin conectar con nada más que el aire y las paredes. **Frank** intentaba clavar su daga en lo que su memoria le decía que tenía enfrente, pero la desorientación era total: sus golpes se perdían en el vacío. **Kirdal**, de rodillas en algún punto de la oscuridad, intentaba rezar a su deidad para invocar su poder divino, pero las palabras le salían entrecortadas; el miedo y la profunda desconfianza en su propia dignidad ahogaban cada plegaria antes de que pudiera completarla. La luz no acudió. **Torken**, el más desorientado de todos, se tambaleaba sin atinar a nada; la oscuridad sobrenatural había anulado por completo su sentido de la orientación.
 
 Entonces, entre el caos silencioso, un sonido metálico cortó la negrura. El inconfundible siseo de una espada al ser desenvainada. Y después, el impacto húmedo y definitivo de un filo de acero incrustándose en algo que no era humano.
 

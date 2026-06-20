@@ -18,7 +18,7 @@ Estas son las crónicas de nuestras sesiones entre amigos, narradas desde la per
 
 | Nombre | Clase | Raza |
 |--------|-------|------|
-| Freya | Druida | Elfa |
+| Freia | Druida | Elfa |
 | Torken | Guerrero | Tiefling |
 | Vashan | Mago | Humano |
 | Kirdal | Paladín | Humano |
