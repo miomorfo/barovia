@@ -40,7 +40,7 @@ En el suelo, entre los escombros y el polvo, las palabras de Strahd les dieron l
 
 Con el peso de la revelación aún flotando en el aire, **Ismark** se recompuso. Agradeció al grupo su protección, les entregó un saquito de monedas de oro como pago prometido y les indicó que podían retirarse a las estancias a descansar. Mañana enterrarían a su padre. Lo peor había pasado, dijo. Aunque nadie en la habitación pareció creerle del todo.
 
-**Frank** tomó el saco de monedas. **Kirdal**, sin decir una palabra, cargó al malherido **Vashan** sobre su hombro y lo llevó hacia las habitaciones. El grupo se dispersó en silencio, cada uno procesando lo que había visto, lo que había escuchado y lo que significaba aquella carta.
+**Frank** tomó el saco de monedas. **Kirdal**, sin decir una palabra, tomó al malherido **Vashan** en brazos y lo llevó hacia las habitaciones. El grupo se dispersó en silencio, cada uno procesando lo que había visto, lo que había escuchado y lo que significaba aquella carta.
 
 La noche de vela había terminado. Pero Barovia apenas comenzaba con ellos.
 
