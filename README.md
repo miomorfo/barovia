@@ -1,5 +1,6 @@
 # La Maldición de Strahd
 
+[![GitHub Pages](https://img.shields.io/badge/📖_Leer_en_web-miomorfo.github.io/barovia-purple)](https://miomorfo.github.io/barovia/)
 ![Nivel](https://img.shields.io/badge/Nivel_actual-2-red)
 ![Sesiones](https://img.shields.io/badge/Sesiones-7-blue)
 ![Jugadores](https://img.shields.io/badge/Jugadores-5-green)
